@@ -1,6 +1,6 @@
 # Php Sevgili Scripti :) Sevgilinizle kaç gündür "çıktığınızı" sayan tatlış bir script.
 Sevgilinizle aşk dolu kaç gün oldu :) 
-## [Demo](https://ozkanozarpaci.com.tr/aycan/)
+## [Demo](#) (Şimdilik pasif)
 
 # Nasıl Kurarım?
 Yapmanız gereken oldukça basit;
